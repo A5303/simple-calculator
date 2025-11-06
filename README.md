@@ -2,8 +2,7 @@
 
 A clean, modern, and responsive calculator web application built with pure HTML, CSS, and JavaScript.
 
-![Calculator Preview](https://via.placeholder.com/400x500/6a11cb/ffffff?text=Calculator+App)
-*Replace with actual screenshot later*
+![Calculator Screenshot](calculator-screenshot.png)
 
 ##  Features
 
